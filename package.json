@@ -1,0 +1,22 @@
+{
+  "name": "js-modal",
+  "version": "1.0.0",
+  "description": "Js modal",
+  "main": "index.js",
+  "scripts": {
+    "start": "lite-server"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shameersn/workshop-js-modal.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/shameersn/workshop-js-modal/issues"
+  },
+  "homepage": "https://github.com/shameersn/workshop-js-modal#readme",
+  "dependencies": {
+    "lite-server": "^2.4.0"
+  }
+}
